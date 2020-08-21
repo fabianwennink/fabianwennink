@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![Banner](banner.jpg "Fabian Wennink")
+![Banner](https://raw.githubusercontent.com/fabianwennink/fabianwennink/master/banner.jpg "Fabian Wennink")
